@@ -1,6 +1,7 @@
 # python-debugging
-Instructions
-Overview
+**Instructions**
+
+**Overview**
 This repository contains a broken Python script designed for practising Git and GitHub workflows.
 Your task is to fix the errors, commit your changes, and submit your work using a Pull Request.
 This exercise teaches you how to:
@@ -9,7 +10,8 @@ This exercise teaches you how to:
 •	Create and switch branches
 •	Commit and push changes
 •	Open a Pull Request to submit your work
-Your Task
+
+**Your Task**
 1.	Fork this repository to your own GitHub account
 2.	Clone your fork to your computer
 3.	Create a new branch with your name
@@ -18,13 +20,13 @@ Your Task
 6.	Push your branch to your fork
 7.	Open a Pull Request back to the original repo
 
-Step 1 — Fork the Repository
+**Step 1 — Fork the Repository**
 1.	At the top right of this page, click Fork
 2.	Choose your GitHub account as the destination
 3.	GitHub will create your own copy of this repo
 You now have full control of your fork.
 
-Step 2 — Clone Your Fork
+**Step 2 — Clone Your Fork**
 Open VS Code, PowerShell, or Git Bash and run:
 git clone https://github.com/<your-username>/<repo-name>.git
 Then move into the folder:
