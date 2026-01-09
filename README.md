@@ -23,30 +23,34 @@ Step 1 — Fork the Repository
 2.	Choose your GitHub account as the destination
 3.	GitHub will create your own copy of this repo
 You now have full control of your fork.
+
 Step 2 — Clone Your Fork
 Open VS Code, PowerShell, or Git Bash and run:
 git clone https://github.com/<your-username>/<repo-name>.git
 Then move into the folder:
 cd <repo name>
+
 Step 3 — Create a Branch
 Create a branch with your name:
 git checkout -b <your name>
 Example:
 git checkout -b damian 
 
-
 Step 4 — Fix the Python Script
 Open broken_script.py in your editor.
 Fix the errors so the script runs correctly.
 Take your time — commit small, meaningful changes.
+
 Step 5 — Commit Your Changes
 Stage your changes:
 git add broken_script.py 
 Commit them:
 git commit -m "Fix errors in broken_script.py" 
+
 Step 6 — Push Your Branch
 Push your branch to your fork:
 git push -u origin <your-branch-name>
+
 Step 7 — Open a Pull Request
 1.	Go to your fork on GitHub
 2.	Click Compare & pull request
@@ -54,6 +58,7 @@ Step 7 — Open a Pull Request
 4.	Add a short description of what you fixed
 5.	Submit the Pull Request
 Your work is now ready for review.
+
 Success Criteria
 To complete this task, you must:
 •	Use Git commands correctly
